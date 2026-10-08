@@ -5,7 +5,7 @@
 Документация — шаги 2–5 из 13 (Overview, Пиллары, Core Loop, Systems Index) написаны черновиками, ждут ревью владельца.
 
 ## NEXT
-Ревью владельцем: [00_Overview](GDD/00_Overview.md), [01_Pillars](GDD/01_Pillars.md), [02_Core_Loop](GDD/02_Core_Loop.md), [03_Systems_Index](GDD/03_Systems_Index.md). После приёмки — GDD систем по порядку из Systems Index, начиная с S01 Карта и сетка.
+Ревью владельцем: [00_Overview](GDD/00_Overview.md), [01_Pillars](GDD/01_Pillars.md), [02_Core_Loop](GDD/02_Core_Loop.md), [03_Systems_Index](GDD/03_Systems_Index.md). В фундамент добавлено дерево технологий за донаты (S22). После приёмки — GDD систем по порядку из Systems Index, начиная с S01 Карта и сетка.
 
 ## В работе
 | Задача | Кто | Состояние |
